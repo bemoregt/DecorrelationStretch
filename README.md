@@ -2,6 +2,12 @@
 
 이미지의 색상 대비를 향상시키는 Decorrelation Stretching(장식 스트레칭) 알고리즘의 Python 구현입니다.
 
+## 결과 예시
+
+![Decorrelation Stretching 결과 1](decost.png)
+
+![Decorrelation Stretching 결과 2](decost2.png)
+
 ## 개요
 
 Decorrelation Stretching은 원격 감지, 천문학, 의료 영상 등 다양한 분야에서 사용되는 이미지 향상 기술입니다. 이 알고리즘은 색상 채널 간의 상관관계를 제거하고 대비를 강화하여 이미지의 세부 정보를 더 잘 볼 수 있게 합니다.
